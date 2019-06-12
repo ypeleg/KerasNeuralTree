@@ -2,7 +2,7 @@
 #### Credits go there! 
 
 # The Hierarchical Mixture of Bigots
-This is my implementation of an approach to neural network model interpretability issue described in the paper "[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)" by _Nicholas Frosst_ and _Geoffrey Hinton_.
+This is my keras layer port of the implementation of https://github.com/lmartak/distill-nn-tree: An approach to neural network model interpretability issue described in the paper "[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)" by _Nicholas Frosst_ and _Geoffrey Hinton_.
 
 ![epoch.gif](assets/img/epoch.gif)
 
